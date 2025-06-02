@@ -51,3 +51,27 @@ p{
     line-height: 1.5;
     font-weight: 500;
 }
+#section-2-btn-wrapper{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+#section-2-btn-wrapper > button{
+    background-color: var(--Almost-Black);
+    color: var(--Almost-White);
+    border: none;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 25px;
+}
+#section-2-img-wrapper{
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:30px 0 45px 0 ;
+}
+#section-2-img-wrapper img{
+    max-width: 100%;
+}
