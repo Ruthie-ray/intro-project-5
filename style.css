@@ -12,7 +12,7 @@
     --Almost-Black: hsl(0, 0%, 8%);
 }
 body{
-    font-family:"Epliogue" , serif;
+    font-family:"Epliogue" , sans-serif;
     max-width: 1540px;
     margin: 0 auto;
 }
